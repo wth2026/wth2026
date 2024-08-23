@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @wth2026
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning C++, C# and JAVA.
+- 💞️ I’m looking to collaborate on develop a game.
+- 📫 How to reach me :
+- - wth2026@outlook.com
+- 😄 Pronouns: 29 (he)
+- ⚡ Fun fact: I'm a students.
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/stcn0ih2.png)
+
 ![](https://flagcounter.me/eQG/)
 
 <!---
