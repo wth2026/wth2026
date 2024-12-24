@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on develop a game.
 - 📫 How to reach me :
 - - wth2026@outlook.com
-- 😄 Pronouns: 29 (he)
-- ⚡ Fun fact: I'm a students.
+- 😄 Pronouns: he
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/stcn0ih2.png)
 
