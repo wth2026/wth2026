@@ -11,7 +11,7 @@
 
 ![](https://flagcounter.me/eQG/)
 
-All of them is me :
+You can find me at :
 - [Github](https://github.com/wth2026)
 - [洛谷](https://www.luogu.com.cn/user/1038334)
 - [CodeForces](https://codeforces.com/profile/wth2026)
