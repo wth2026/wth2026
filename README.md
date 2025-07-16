@@ -1,22 +1,19 @@
-- 👋 Hi, I’m @wth2026
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C++, C# and JAVA.
-- 💞️ I’m looking to collaborate on develop a game.
-- 📫 How to reach me :
-- - wth2026@outlook.com
-- 😄 Pronouns: he
+# 个人介绍
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/stcn0ih2.png)
 
-![](https://flagcounter.me/eQG/)
+## 联系方式
+邮箱：wth2026@outlook.com  
+QQ：3763418236（用户名：wth2026）  
+QQ群：673295794
 
-You can find me at :
-- [Github](https://github.com/wth2026)
-- [洛谷](https://www.luogu.com.cn/user/1038334)
-- [CodeForces](https://codeforces.com/profile/wth2026)
-- [AtCoder](https://atcoder.jp/users/wth_2026)
+# 账号信息
+![](https://github-readme-stats.vercel.app/api?username=wth2026)  
+![](https://flagcounter.me/f4c/)
 
-<!---
-wth2026/wth2026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 祭台
+#### 注册github
+##### 不知道什么时候的很久很久以前
+
+#### 正式入github
+##### 2025-7-16
+
