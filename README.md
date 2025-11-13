@@ -11,11 +11,3 @@ QQ群：673295794
 # 账号信息
 ![](https://github-readme-stats.vercel.app/api?username=wth2026)  
 ![](https://flagcounter.me/f4c/)
-
-# 祭台
-#### 注册github
-##### 不知道什么时候的很久很久以前
-
-#### 正式入github（更新这个页面，写第一个项目）
-##### 2025-7-16
-
